@@ -12,3 +12,8 @@
   max-width: 1100px ;
   margin: 0 auto;
 }
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+}
