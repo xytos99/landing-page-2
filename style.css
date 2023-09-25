@@ -27,3 +27,13 @@ body {
   font-weight: 700;
   color: #f9faf8;
 }
+
+.header ul li {
+  list-style-type: none;
+}
+
+.header a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
