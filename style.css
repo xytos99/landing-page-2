@@ -37,3 +37,9 @@ body {
   color: #e5e7eb;
   font-size: 18px;
 }
+
+.header ul {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
