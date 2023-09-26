@@ -89,3 +89,9 @@ body {
   text-align: center;
   padding: 40px;
 }
+
+.info .boxes {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+} 
