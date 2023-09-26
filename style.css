@@ -46,3 +46,9 @@ body {
   align-items: center;
   gap: 16px;
 }
+
+.hero .container {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+}
