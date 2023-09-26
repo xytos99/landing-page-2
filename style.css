@@ -90,6 +90,10 @@ body {
   padding: 40px;
 }
 
+.info h1 {
+  margin-bottom: 40px;
+}
+
 .info .boxes {
   display: flex;
   justify-content: center;
