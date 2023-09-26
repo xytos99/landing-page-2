@@ -93,5 +93,9 @@ body {
 .info .boxes {
   display: flex;
   justify-content: center;
-  gap: 30px;
+  gap: 50px;
 } 
+
+.info .box {
+  flex-basis: 150px;
+}
