@@ -47,6 +47,10 @@ body {
   gap: 16px;
 }
 
+.hero {
+  background-color: #1f2937;
+}
+
 .hero .container {
   display: flex;
   gap: 50px;
@@ -56,3 +60,14 @@ body {
 .hero-content {
   flex-basis: 500px;
 }
+
+.hero-content h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.hero-content p {
+  font-size: 18px;
+  color: #e5e7eb;
+} 
