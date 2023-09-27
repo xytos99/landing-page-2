@@ -130,3 +130,12 @@ body {
   font-weight: bold;
   align-self: flex-end;
 }
+
+.call-to-action {
+  padding: 100px 0;
+}
+
+.call-to-action .container {
+  display: flex;
+  justify-content: space-around;
+}
