@@ -138,4 +138,20 @@ body {
 .call-to-action .container {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  background-color: #3882f6;
+  padding: 50px 100px;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.call-to-action .container button {
+  background-color: #3882f6;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 0 34px;
+  border: 2px solid white;
+  border-radius: 10px;
+  height: 36px;
 }
